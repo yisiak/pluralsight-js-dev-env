@@ -1,0 +1,41 @@
+#begining{
+
+background-color: rgb(115, 173, 28);
+}
+a:link{
+  color: yellow;  
+}
+a:visited{
+    color: rgb(228, 17, 17);
+}
+a:hover{
+    color: rgb(255, 215, 0);
+}
+a:active{
+    color: rgb(0, 0, 0);
+    
+}
+
+#top-greetings{
+text-emphasis: none;
+}
+#greetings{
+     text-transform: capitalize;
+    text-align: center;
+}
+.web-nav{
+    text-transform: capitalize;
+    text-align: center;
+    word-spacing: 70px;
+    justify-content: space-around;
+    /*align-items: center;*/
+    margin-top: 10px;
+    margin-right: 10px;
+    /*margin-left: 60px;*/
+    padding-left: 50px;
+    padding-right: 20px;
+    /*align-content: center;*/
+}
+#home{
+    background-color: blue;
+}
